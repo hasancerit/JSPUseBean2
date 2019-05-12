@@ -35,7 +35,7 @@
 		<!-- En Kisa Yol 
 		<jsp:setProperty name="kisi1" property="*" /> -->
 	</jsp:useBean>
-
+	
 	<jsp:getProperty property="ad" name="kisi1" />
 	<jsp:getProperty property="soyad" name="kisi1" />
 	<jsp:getProperty property="yil" name="kisi1" />
